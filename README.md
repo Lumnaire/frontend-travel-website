@@ -1,3 +1,6 @@
+<img src="https://github.com/Lumnaire/frontend-travel-website/blob/main/frontend-travel-website.png"/>
+
+
 # ✈️ Frontend Travel Website: Your Next Adventure in Code!
 Welcome to the Frontend Travel Website project! This repository is the launchpad for building a stunning, responsive, and highly interactive travel landing page. We're embarking on a collaborative journey to bring a beautiful Figma design to life using cutting-edge frontend technologies.
 
