@@ -1,6 +1,7 @@
 import { Image } from "../atoms/Image"
 import bgImage from "../../assets/HeroVector.png"
 import heroImage from "../../assets/hero-img.png"
+// import { Text } from "../atoms/Text"
 import { Text } from "../atoms/Text"
 import { HeroTexts } from "../particles/DataLists"
 import { Button } from "../atoms/Button"

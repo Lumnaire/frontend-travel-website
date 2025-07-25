@@ -1,5 +1,6 @@
 import { Image } from "../atoms/Image"
-import { Text } from "../atoms/Text"
+// import { Text } from "../atoms/Text"
+import { Text } from "../atoms/Text.tsx"
 import { SubscribeForm } from "../molecules/SubscribeForm"
 import { NewsletterTexts } from "../particles/DataLists"
 import groupOfPlus from "../../assets/plusGroup2.png"
