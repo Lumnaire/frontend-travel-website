@@ -1,6 +1,7 @@
 import { Image } from "../atoms/Image"
 import logo from "../../assets/logo2.png"
-import { Text } from "../atoms/Text"
+// import { Text } from "../atoms/Text"
+import { Text } from "../atoms/Text.tsx"
 import { FooterTexts } from "../particles/DataLists"
 import { List } from "../atoms/List"
 import { Link } from "react-router-dom"
@@ -90,7 +91,7 @@ const Footer = () => {
                 </div>
             </section>
             <Text className="text-center bg-color4 text-white text-xs py-6 font-light">
-                Copyright 2023. Jadoo.com. All rights reserved.
+                Copyright 2025. Jadoo.com. All rights reserved.
             </Text>
         </footer>
     )
